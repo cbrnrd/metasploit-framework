@@ -14,7 +14,7 @@ class MetasploitModule < Msf::Post
       'Author' =>
       [
         'Carter Brainerd (@cbrnrd)', # Metasploit module
-        '@4z3' # Discovery
+        'Rich Mirch' # Discovery
       ],
       'Platform' => 'Linux',
       'SessionTypes' => ['shell', 'meterpreter']
